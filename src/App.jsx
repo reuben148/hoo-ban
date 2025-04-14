@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { CTA, Brands, Navbar, Feature } from "./Components";
-import { Footer, Blog, Possibility, Header, WhatGPT } from "./Containers";
+import { Footer, Blog, Possibility, Header, WhatGpt } from "./Containers";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Header />
 
       <Brands />
-      <WhatGPT />
+      <WhatGpt />
       <Feature />
       <Possibility />
       <CTA />
