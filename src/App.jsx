@@ -4,7 +4,7 @@ import { Footer, Blog, Possibility, Header, WhatGPT } from "./containers";
 
 function App() {
   return (
-    <div className="bg-slate-400">
+    <div className="bg-[#214D76]">
       <Navbar />
       <Header />
 
