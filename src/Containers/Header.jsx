@@ -5,7 +5,7 @@ function Header() {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <div className="bg-[#214D76] px-6 py-4 relative">
+    <div className="bg-[#00040F] px-6 py-4 relative">
       <div className="flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center gap-2 text-white">
