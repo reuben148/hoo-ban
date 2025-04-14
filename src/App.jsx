@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { CTA, Brands, Navbar, Feature } from "./components";
+import { CTA, Brands, Navbar, Feature } from "./Components";
 import { Footer, Blog, Possibility, Header, WhatGPT } from "./containers";
 
 function App() {
