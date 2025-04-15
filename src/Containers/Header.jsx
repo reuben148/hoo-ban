@@ -21,7 +21,7 @@ function Header() {
 
         {/* Desktop Nav */}
         <div className="hidden md:flex gap-8 items-center text-[#FFFFFF] font-medium">
-          <a href="#">Home</a>
+          <a href="#footer">Home</a>
           <a href="#">About Us</a>
           <a href="#">Features</a>
           <a href="#">Solution</a>

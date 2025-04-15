@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="bg-[#0A1C2C] text-white py-16 px-8">
+    <div className="bg-[#00040F] text-white py-16 px-8">
       {/* Logo and Address */}
       <div className="flex flex-col sm:flex-row justify-between items-start mb-8">
         <div className="flex flex-col items-start">
