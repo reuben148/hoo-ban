@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../content/button";
 
 function Feature() {
   return (
@@ -14,9 +15,7 @@ function Feature() {
           building credit, earning rewards and saving money. But with <br />
           hundreds of credit cards on the market.
         </p>
-        <button className="bg-[#7DE7EB] text-[#00040E] px-6 py-3 rounded-[10px] mt-6 font-semibold">
-          Get Started
-        </button>
+        <Button />
       </div>
 
       {/* Right Section with Three Blocks */}
@@ -38,10 +37,11 @@ function Feature() {
           <img src="shield.png" alt="Security Icon" className="w-10 h-10" />
           <div>
             <h3 className="font-semibold text-[18px] leading-[130%] tracking-[1%] capitalize">
-            100% Secured
+              100% Secured
             </h3>
             <p className="text-[16px] font-normal leading-[100%] tracking-[0%] mt-2">
-            We take proactive steps make sure your information and transactions are secure.
+              We take proactive steps make sure your information and
+              transactions are secure.
             </p>
           </div>
         </div>
@@ -50,10 +50,11 @@ function Feature() {
           <img src="Send.png" alt="Savings Icon" className="w-10 h-10" />
           <div>
             <h3 className="font-semibold text-[18px] leading-[130%] tracking-[1%] capitalize">
-            Balance Transfer
+              Balance Transfer
             </h3>
             <p className="text-[16px] font-normal leading-[100%] tracking-[0%] mt-2">
-            A balance transfer credit card can save you a lot of money in interest charges.
+              A balance transfer credit card can save you a lot of money in
+              interest charges.
             </p>
           </div>
         </div>
